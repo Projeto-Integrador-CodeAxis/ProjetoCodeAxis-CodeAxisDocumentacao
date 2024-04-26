@@ -26,6 +26,8 @@ O projeto que apresentaremos neste contexto foi concebido com base no Objetivo 4
 
 # Pessoas Desenvolvedoras do Projeto
 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Adriel Modesto Martineli](https://github.com/AdrielMartineli) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Ana Clara De Alencar](https://github.com/anaclaraalencar) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162219194?v=4" width=115>André Luiz Nascimento Pinto](https://github.com/andrenas95) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/131809585?v=4" width=115><br>Daniele Campos Ferreira](https://github.com/daniele0118) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/121838715?v=4" width=115><br>Igor Fernandes Quaresma](https://github.com/IgorFernandesQuaresma) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/120491040?v=4" width=115><br>Jessica Costa Ignácio](https://github.com/eijess) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Jhulieny Bucci](https://github.com/JhulienyB) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Mariah Caroline P. G. Oliveira](https://github.com/Mariahcpgo) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/149630140?v=4" width=115><br>Michel Oliveira Cavalcante de Souza](https://github.com/mcavalcantedesouza) 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 # Escopo do Projeto
 
