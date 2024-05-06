@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ik.imagekit.io/4kqnwi1lux/Generation/8010b1b6-32bc-4dd4-bc11-a4a607c9974c.png?updatedAt=1715000008769" width="200" alt="Nest Logo" />
+</p>
+
 <h1 align="center"> Projeto CodeAxis - Documentação </h1>
 
 # Índice
@@ -26,8 +30,11 @@ O projeto que apresentaremos neste contexto foi concebido com base no Objetivo 4
 
 # Pessoas Desenvolvedoras do Projeto
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Adriel Modesto Martineli](https://github.com/AdrielMartineli) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Ana Clara De Alencar](https://github.com/anaclaraalencar) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162219194?v=4" width=115>André Luiz Nascimento Pinto](https://github.com/andrenas95) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/131809585?v=4" width=115><br>Daniele Campos Ferreira](https://github.com/daniele0118) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/121838715?v=4" width=115><br>Igor Fernandes Quaresma](https://github.com/IgorFernandesQuaresma) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/120491040?v=4" width=115><br>Jessica Costa Ignácio](https://github.com/eijess) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Jhulieny Bucci](https://github.com/JhulienyB) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Mariah Caroline P. G. Oliveira](https://github.com/Mariahcpgo) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/149630140?v=4" width=115><br>Michel Oliveira Cavalcante de Souza](https://github.com/mcavalcantedesouza) 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Adriel M. Martineli](https://github.com/AdrielMartineli) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Ana Clara de Alencar](https://github.com/anaclaraalencar) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162219194?v=4" width=110><br>André Luiz N. Pinto](https://github.com/andrenas95) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/131809585?v=4" width=115><br>Daniele C. Ferreira](https://github.com/daniele0118) | 
+| :---: | :---: | :---: | :---: | 
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/121838715?v=4" width=115><br>Igor F. Quaresma](https://github.com/IgorFernandesQuaresma) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/120491040?v=4" width=115><br>Jessica C. Ignácio](https://github.com/eijess) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/" width=115><br>Jhulieny Bucci](https://github.com/JhulienyB) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162521119?v=4" width=115><br>Mariah Garcia](https://github.com/Mariahcpgo) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/149630140?v=4" width=115><br>Michel C. Souza](https://github.com/mcavalcantedesouza) |
+| :---: | :---: | :---: | :---: | :---: |
 
 # Escopo do Projeto
 
